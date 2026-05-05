@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://rhtvsdgbk10q"]
 
-[ext_resource type="Texture2D" uid="uid://del7ay1m7mj2f" path="res://SimpleWall.png" id="1_l6igm"]
+[ext_resource type="Texture2D" uid="uid://dyxgtcioc1u6q" path="res://WhiteBox.png" id="1_l6igm"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7ph0r"]
 size = Vector2(32, 32)
